@@ -1,0 +1,27 @@
+body{
+    font-family: 'Oswald', sans-serif;;
+}
+
+table,th, td{ 
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    margin: 10%;
+    border: 2px solid black;
+    width: 30%;
+}
+
+th, td {
+    padding: 10px;
+}
+
+caption {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+title {
+    font-size: 30px;
+}

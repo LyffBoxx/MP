@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courgette', cursive;
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+ol {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+body {
+    width: 50%;
+    margin-left: 25%;
+    margin-left: 25%;
+}
