@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Halant&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family: 'Halant', serif;
+}
+
+form {
+    margin: 0 auto;
+    width: 50%; 
+}
+
+.tech {
+    font-family: 'Halant', serif;
+    width: 20%;
+    display: inline-block;
+    margin-top: 3.5%;
+}
+
+.num, select {
+    width: 35%;
+    padding: 1%;
+}
+
+input {
+    font-family: 'Manrope', sans-serif;
+}
+.num1 {
+    margin-top: 1rem;
+    padding: 1%;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    width: 35%;
+}
